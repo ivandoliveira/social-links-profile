@@ -21,7 +21,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: []([https://your-live-site-url.com](https://ivandoliveira.github.io/social-links-profile/))
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://ivandoliveira.github.io/social-links-profile/))
 
 ## My process
 
@@ -32,6 +32,6 @@ Users should be able to:
 
 ## Author
 
-- Gitgub - [Ivan de Oliveira](https://github.com/ivandoliveira)
+- Github - [Ivan de Oliveira](https://github.com/ivandoliveira)
 - Frontend Mentor - [@ivandoliveira](https://www.frontendmentor.io/profile/ivandoliveira)
 - Twitter - [@\_ivanzo](https://x.com/_ivanzo)
