@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://ivandoliveira.github.io/social-links-profile/))
+- Solution URL: [Github](https://github.com/ivandoliveira/social-links-profile/tree/main)
+- Live Site URL: [Github.io](https://ivandoliveira.github.io/social-links-profile/)
 
 ## My process
 
